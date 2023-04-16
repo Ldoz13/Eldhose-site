@@ -1,4 +1,4 @@
-# Eldhose Portfolio Site
+# Eldhose's Portfolio Site
 
 Hola!
 This is my portfolio site in progress!!!
